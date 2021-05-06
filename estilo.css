@@ -1,0 +1,77 @@
+body{
+    background: rgba(165, 79, 52, 0.973);
+    font: normal 15pt arial
+}
+header{
+    color:white;
+    text-align:center;
+
+
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding:15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: rgba(0, 0, 0, 0.342) 3px 3px 10px;
+
+
+}
+footer{
+    color:white;
+    text-align:center;
+    font-style:italic;
+}
+h1{
+    color:white;
+    border-radius: 10px;
+    scrollbar-color: black;
+    text-shadow: darkgray;
+    text-decoration-line:underline ;
+    
+}
+#texto{
+    background-color: olive;
+    width: 400px;
+    text-align: center;
+    margin:auto;
+    padding:7px;
+    border-radius: 10px;}
+   
+
+section{
+   background-image: url("quadro.jfif"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#decor{
+    background-color: olive;
+    padding: 7px;
+    border-radius: 10px;
+    box-shadow: black 10 px; 
+    width: 300px;
+
+}
+#txtn{
+    color: black;
+    padding: 3px;
+    border-radius: 10px;
+    box-shadow: black;
+}
+
+body{
+    background-image: url("fundo.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+#seltab{
+    padding: 10px;
+    box-shadow: black;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+    
+}
+.txt{
+    color:darkblue;
+}
