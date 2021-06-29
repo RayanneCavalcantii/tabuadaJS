@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Jomhuria&family=Orbitron:wght@500&display=swap');
 body{
     background: rgba(165, 79, 52, 0.973);
     font: normal 15pt arial
 }
 header{
-    color:white;
+    color:rgb(255, 255, 255);
     text-align:center;
-
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 25px;
 
 }
 section{
